@@ -422,6 +422,7 @@ img {
 
   .footer {
     height: 482px;
+    overflow-x: hidden;
   }
 
   .footer-bg {
@@ -442,5 +443,9 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
+  }
+
+  .footer {
+    width: 100vw;
   }
 }
