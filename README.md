@@ -25,9 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](/solution-screenshots/desktop.png)
-![Tablet](/solution-screenshots/tablet.png)
-![Mobile](/solution-screenshots/mobile.png)
+####Desktop
+![](/solution-screenshots/desktop.png)
+####Tablet
+![](/solution-screenshots/tablet.png)
+####Mobile
+![](/solution-screenshots/mobile.png)
 
 ### Links
 
